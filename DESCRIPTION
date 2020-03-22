@@ -1,0 +1,19 @@
+Package: lifetbl
+Type: Package
+Title: Calculate Period Life Tables
+Version: 1.0.0
+Author: Anthony Medford
+Maintainer: Anthony Medford <armedford@yahoo.com>
+Description: Estimate period life tables.  
+    Uses data from Berkley Demography webite for testing.
+    nax is estimated to be 0.5 and and the first age interval uses method of 
+    Keyfitz & Flieger(1968)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
