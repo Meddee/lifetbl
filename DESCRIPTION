@@ -17,3 +17,4 @@ Suggests:
     rmarkdown,
     testthat
 VignetteBuilder: knitr
+URL: http://github.com/Meddee/lifetbl
